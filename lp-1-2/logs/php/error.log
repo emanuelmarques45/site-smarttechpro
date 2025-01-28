@@ -1,0 +1,2 @@
+[27-Jan-2025 22:41:54 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\Emanuel\Local Sites\lp-1\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
+[27-Jan-2025 22:42:03 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\Emanuel\Local Sites\lp-1\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
